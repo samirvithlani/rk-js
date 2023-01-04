@@ -1,0 +1,59 @@
+//js --> java script is a scripting language...
+// java script runs on the client side... browser --> client side
+
+compiler -->gcc , jvm -->
+
+engines --> v8 , spider monkey, rhino, chakra, javascript core, javascript 
+
+v8 chrome
+spider monkey firefox  --> first engine
+rhino java
+chakra ie
+javascript core safari
+version :
+ECMA script 5  --
+ECMA script 6  --2015
+
+DOM -->document object model -> window -->
+
+justify this statmment --> javascript is dynamically typed language :-- static int float bloon
+boolean 
+number
+string
+object
+
+
+var  global scope
+let  block scope  >local scope ec6
+const block scope
+{
+}
+
+.js
+<script>
+incline script
+
+arithmatic operators + - * / % ++ --
+assignment operators = += -= *= /= %=
+comparison operators == === != !== > < >= <=
+logical operators && || !
+bitwise operators & | ^ ~ << >> >>>
+ternary operator ?:
+typeof operator
+instanceof operator
+delete operator
+
+
+8 data typed
+number
+string
+boolean
+null
+undefined
+object
+symbol
+bigint
+
+
+
+
