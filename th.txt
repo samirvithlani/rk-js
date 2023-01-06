@@ -54,6 +54,11 @@ object
 symbol
 bigint
 
+//how many employee have child whoese gender is male
+employee child > 10 years
+employee salary 50000 > child , child female
+
+
 
 
 
