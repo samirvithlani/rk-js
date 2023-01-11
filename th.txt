@@ -59,6 +59,3 @@ employee child > 10 years
 employee salary 50000 > child , child female
 
 
-
-
-
